@@ -1,0 +1,50 @@
+.CourseBoxAll{
+	width: 940px;
+	margin: 0 auto;
+    padding: 20px;
+}
+.CourseBox-left-title{
+    width: 230px;
+    height: 40px;
+    background: linear-gradient(to bottom, #addefc , #40b2ff);
+    line-height: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #A25603;
+/*    float: left;*/
+}
+.CourseBox-left-content{
+    width: 188px;
+    padding: 0 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    border: 1px solid #C9C9C9;
+    border-top: none;
+    min-height: 300px;
+    height: 300px;
+    float: left;
+}
+.CourseBox-right-title{
+    width: 690px;
+    height: 39px;
+    line-height: 45px;
+    font-size: 12px;
+    color: #3D3D3D;
+    border-bottom: 1px solid #B97706;
+    overflow: hidden;
+}
+.TextSize14{
+	color: white;
+    margin-left: 20px;
+}
+.TextSize14Grey{
+	color: #333333;
+	font-size: 16px;
+	margin-left: 0px;
+	margin-top: 10px;
+}
+.fgline{
+    border: 1px dashed #40b2ff;
+    width: 100%;
+    margin-top: 10px;
+}
