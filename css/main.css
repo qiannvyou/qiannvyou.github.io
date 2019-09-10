@@ -160,10 +160,10 @@ body {
 
 .header {
 	width:100%;
-	/*background: linear-gradient(to bottom, #addefc , #40b2ff);*/
+	background:#0978CF;
 	height: 140px;
 	margin: 0 auto;
-	background: url(../img/head.jpg);
+	/*background: url(../img/head.jpg);*/
 }
 
 .header-container {
