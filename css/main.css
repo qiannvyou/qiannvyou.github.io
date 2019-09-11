@@ -584,6 +584,7 @@ body {
 	height: 100px;
 	margin: 0 auto;
 	margin-top: 100px;
+	/*background-color:#6495ED\9;//ie*/
 }
 
 .foot {
@@ -647,6 +648,7 @@ body {
     color: white;
     float: left;
     background: linear-gradient(to bottom, #addefc , #40b2ff);
+    background-color:#6495ED\9;
 }
 
 .ny-left-title img {
